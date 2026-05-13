@@ -149,9 +149,9 @@ Bone,223,213,187,#DFD5BB,7.11
 
 This project was developed as part of the **Codec Technologies Internship Program**.
 
-- 👩‍💻 **Developer:** [Your Name]
+- 👩‍💻 **Developer:** Ankita Ghosh
 - 🏢 **Organization:** Codec Technologies
-- 📅 **Year:** 2025
+- 📅 **Year:** 2026
 
 ---
 
